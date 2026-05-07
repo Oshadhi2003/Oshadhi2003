@@ -1,13 +1,47 @@
-<h3 align="center">A passionate Full-Stack Developerper </h3>
+<div align="center">
+  <h1>Hi there, I'm Oshadhi Manage! [cite_start]👋 [cite: 1]</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Computer+Science+Undergraduate;Aspiring+Software+Engineer;Frontend,+Backend,+%26+QA" alt="Typing SVG" />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/oshadhi manage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oshadhi manage" height="30" width="40" /></a>
-</p>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+### 🚀 About Me
+- [cite_start]🎓 I am currently pursuing my BSc (Hons) in Computer Science at SLIIT. 
+- [cite_start]💡 I am an aspiring Software Engineer with a hybrid skill set spanning Frontend Engineering, Backend Architecture, and Quality Assurance. [cite: 6, 7]
+- [cite_start]💻 I enjoy building user-centric, scalable digital solutions. [cite: 9]
+- [cite_start]🌱 Currently expanding my knowledge across the entire Software Development Life Cycle (SDLC). 
+- [cite_start]📫 Reach out to me via email at oshadhimanage@gmail.com. [cite: 2]
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oshadhi2003&show_icons=true&locale=en&layout=compact" alt="oshadhi2003" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oshadhi2003&show_icons=true&locale=en" alt="oshadhi2003" /></p>
+### 🛠️ Tech Stack & Tools
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,c,js,html,css,react,spring,tailwind" alt="Languages & Frameworks" />
+  </a>
+  <br>
+  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,git,github,figma,selenium,postman" alt="Tools & Databases" />
+  </a>
+</div>
+
+---
+
+### 📂 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **TestLang++** | [cite_start]A custom DSL & Compiler for API Test Automation that converts scripts into robust test cases. [cite: 50, 51] | [cite_start]Java, Spring Boot, JUnit 5 [cite: 53] |
+| **Kinetic Kicks** | [cite_start]A responsive dashboard communicating with embedded hardware via Bluetooth to visualize real-time power data. [cite: 59] | [cite_start]React Native, ESP32 [cite: 57, 59] |
+| **Mobile Repair Shop System** | [cite_start]A single-page application featuring an Admin Dashboard to track real-time workflow progress. [cite: 34, 35] | [cite_start]React.js [cite: 33] |
+| **Naval Battle Simulator** | [cite_start]A C-based simulation program modeling strategic ship combat and fleet damage tracking. [cite: 68, 70, 72] | [cite_start]C [cite: 71] |
+| **Distributed Payment System** | [cite_start]A fault-tolerant backend system handling concurrent transactions using a custom consensus mechanism. [cite: 62, 65, 66] | [cite_start]Python, gRPC [cite: 65] |
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Oshadhi2003&show_icons=true&theme=transparent&hide_border=true&title_color=2F80ED&icon_color=2F80ED" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oshadhi2003&layout=compact&theme=transparent&hide_border=true&title_color=2F80ED" height="150" alt="Top Languages" />
+</div>
